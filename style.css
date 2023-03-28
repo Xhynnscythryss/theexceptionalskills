@@ -176,10 +176,11 @@ hr.heroline{
 }
 
 .many-dont-realize{
-    background-image: url('thinking.png');
+    background-position: center;
     background-repeat: no-repeat;
     opacity: 60%;
     margin-top: -5px;
+    margin-left: -10px;
     
     
 }
@@ -194,8 +195,81 @@ hr.heroline{
     
 }
 
-.its-important{
-
+.its-imp-that{
     background-color: #101010;
+    width: 1524px;
+    height: 880px;
+    margin-left: -8px;
+    margin-top: -5px;
 }
 
+.its-important{
+    font-family: 'poppins',sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    text-align: right;
+    margin-left: 970px;
+    margin-top: 130px;
+    color: white;
+    
+}
+
+.how-do{
+    font-family: 'poppins',sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    text-align: right;
+    margin-left: 1120px;
+    color: white;
+    margin-top: 555px;
+
+}
+
+.learn-and-do{
+    font-family: 'poppins',sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    text-align: right;
+    margin-left: 1095px;
+    color: white;
+    margin-top: 650px
+}
+
+.button3{
+    font-family: 'poppins','sans-serif';
+    font-weight: bold;
+    background-color: #ff0000;
+    width: 160px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    margin-left: 1005px;
+    position: relative;
+    top: 700px;
+    text-decoration: none;
+
+}
+
+.button4{
+    font-family: 'poppins','sans-serif';
+    font-weight: bold;
+    background-color: #0170B9;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    margin-left: 6px;
+    position:relative;
+    top:700px;
+    text-decoration: none;
+}
+
+.its-imp-img{
+    height: 300px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 110px;
+}
