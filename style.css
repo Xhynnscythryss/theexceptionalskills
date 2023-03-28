@@ -1,0 +1,125 @@
+
+.logo1{
+    margin-left: 60px;
+    
+}
+
+.heroimage{
+    background-repeat: no-repeat;
+    background-position: right 115px top 120px; 
+    
+    
+
+}
+    
+
+.join{
+    font-size: 18px;
+    font-family: 'poppins','sans-serif';
+    margin-left: 160px;
+    margin-bottom: -60px;
+    margin-top: 80px;
+    color: #0170B9;
+    
+}
+
+.create{
+    font-size: 28px;
+    font-family: 'poppins','sans-serif';
+    margin-left: 160px;  
+    margin-bottom: -70px;
+    font-weight: bold;
+}
+
+.great{
+    font-size: 24px;
+    font-family: 'poppins','sans-serif';
+    margin-left: 160px;
+    margin-bottom: -60px;
+}
+
+.norm{
+    font-size: 26px;
+    font-family: 'poppins','sans-serif';
+    margin-left: 160px;
+    margin-bottom: -30px;
+}
+
+.betheleader{
+    font-family: 'poppins','sans-serif';
+    position: relative;
+    top:70px;
+    margin-left: 160px;
+    
+
+}
+
+.whomeveryone{
+    font-family: 'poppins','sans-serif';
+    position: relative;
+    top:40px;
+    margin-left: 160px;
+
+}
+
+.button1{
+    font-family: 'poppins','sans-serif';
+    font-weight: bold;
+    background-color: #ff0000;
+    width: 160px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    margin-left: 160px;
+    position: relative;
+    top: 60px;
+    text-decoration: none;
+
+}
+
+.button2{
+    font-family: 'poppins','sans-serif';
+    font-weight: bold;
+    background-color: #0170B9;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    margin-left: 6px;
+    position:relative;
+    top:60px;
+    text-decoration: none;
+}
+
+hr.heroline{
+    border: 8px solid #101010;
+    border-radius: 0px;
+    width: 100%;
+    position: relative;
+    top: 200px;
+   
+    
+}
+
+.new-paragraph {
+    margin-top: 230px;
+    text-align: center;
+    font-family: 'poppins','sans-serif';
+    font-weight: bold;
+    font-size: 24px;
+    color: #000000;
+}
+
+.over-the{
+    margin-left: 35px;
+}
+
+.press{
+    margin-top: 50px;
+    margin-left: 38px;
+}
+
+.bad-lead{
+    margin-top: 50px;
+    margin-left: -10px;
+}
