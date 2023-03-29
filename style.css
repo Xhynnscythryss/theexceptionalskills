@@ -134,6 +134,7 @@ hr.heroline{
     margin-top: -750px;
     margin-left: 130px;
     
+    
 }
 
 .often{
@@ -212,6 +213,7 @@ hr.heroline{
     margin-left: 970px;
     margin-top: 130px;
     color: white;
+    text-shadow: 1px 1px 2px #ff9122;
     
 }
 
@@ -221,11 +223,12 @@ hr.heroline{
     font-weight: bold;
     position: absolute;
     text-align: right;
-    margin-left: 1120px;
-    color: white;
+    color: #ffffff;
+    margin-left: 1120px;   
     margin-top: 555px;
 
 }
+
 
 .learn-and-do{
     font-family: 'poppins',sans-serif;
@@ -268,8 +271,49 @@ hr.heroline{
 }
 
 .its-imp-img{
-    height: 300px;
-    width: 300px;
-    margin-left: 50px;
+
+    margin-left: 115px;
     margin-top: 110px;
+}
+
+.its-a-problem{
+    background: linear-gradient(150deg, rgba(1,112,185,1) 0%, rgba(255,145,34,1) 65%);
+    width: 1524px;
+    height: 880px;
+    margin-left: -8px;
+    margin-top: -5px;
+}
+
+.its-a{
+    font-family: 'poppins',sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    text-align: left;
+    margin-left: 115px;
+    color: white;
+    margin-top: 170px;
+    text-shadow: 1px 1px 2px black;
+
+
+}
+
+.together{
+    font-family: 'poppins',sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    text-align: left;
+    margin-left: 115px;
+    margin-top: 400px;
+    color:white;
+    text-shadow: 1px 1px 2px black;
+}
+
+
+.its-a-prob-img{
+
+    margin-left: 630px;
+    margin-top: 130px;
+
 }
